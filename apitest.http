@@ -1,0 +1,10 @@
+GET http://localhost:5000/random-number?start=2&end=5
+
+###
+
+GET http://localhost:5000/count-character?str=hello1250,%$3
+
+
+###
+
+GET http://localhost:5000/fake-profile-address?properties=firstName,lastName,email,address,age,avatar
